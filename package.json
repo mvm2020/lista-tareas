@@ -1,0 +1,15 @@
+{
+  "name": "4-porhacer",
+  "version": "1.0.0",
+  "description": "Lista de Tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MVM",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  }
+}
