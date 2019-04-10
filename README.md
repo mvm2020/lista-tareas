@@ -4,10 +4,10 @@
 
 Comandos:
 
-> node app crear -d "Pasear al perro"
-> node app listar
-> node app borrar -d "Pasear al perro"
-> node app actualizar -d "Pasear al perro" -c true
+- node app crear -d "Pasear al perro"
+- node app listar
+- node app borrar -d "Pasear al perro"
+- node app actualizar -d "Pasear al perro" -c true
 
 Para instalar:
 
